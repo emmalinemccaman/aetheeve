@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://naalahmung.pjdlandscape.com/sitemap.xml
